@@ -1,0 +1,1 @@
+{"cohortCount for Hypertension": 100, "meanAge of cohort": 49.72, "meanBmi of cohort": 32.46338386336577}
